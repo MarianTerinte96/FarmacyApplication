@@ -1,2 +1,2 @@
-# FarmacyApplication
- FarmacyApplication
+# PharmacyApplication
+ PharmacyApplication
